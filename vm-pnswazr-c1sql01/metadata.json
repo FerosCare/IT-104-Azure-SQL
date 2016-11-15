@@ -1,0 +1,8 @@
+{
+  "itemDisplayName": "Deploy a Windows Server 2012 R2 VM running SQL 2014 SP2 Enterprise VM",
+  "icon": "windowsVM",
+  "description": "It's a GS1 VM with SQL pre-installed and somewhat configured.",
+  "summary": "Use with caution",
+  "githubUsername": "FerosCare",
+  "dateUpdated": "2016-11-15"
+}
